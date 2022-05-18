@@ -1,0 +1,21 @@
+{
+    "name": "cn",
+    "displayName": "cn",
+    "description": "Coder Nauta Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coder Nauta",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coder Nauta-color-theme.json"
+            }
+        ]
+    }
+}
