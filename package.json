@@ -18,7 +18,7 @@
             }
         ]
     },
-    "icon": "./icons/codernauta.png",
+    "icon": "icons/codernauta-icon.png",
     "author": "Martín La Loggia",
     "email": "martinuriellaloggia@gmail.com",
     "repository": {
