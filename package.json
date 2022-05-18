@@ -25,6 +25,21 @@
         "type": "git",
         "url": "https://github.com/TinchoLalo/coder-nauta-theme-vscode"
     },
-    "publisher": "CoderNautaTheme"
+    "publisher": "codernautatheme",
+    
+    "$id": "1",
+    "customProperties": {
+        "Descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;00037FFEFF7D4161@Live.com",
+        "IdentityDisplayName": "codernautatheme",
+        "Token": "AllPermissions",
+        "RequestedPermissions": 1,
+        "NamespaceId": "ed2a634d-dbed-6b8a-bbda-7b8ed334438c"
+    },
+    "innerException": null,
+    "message": "Access Denied: Ramanean needs the following permission(s) to perform this action: View audit log",
+    "typeName": "Microsoft.VisualStudio.Services.Security.AccessCheckException, Microsoft.VisualStudio.Services.WebApi",
+    "typeKey": "AccessCheckException",
+    "errorCode": 0,
+    "eventId": 3000
     
 }
