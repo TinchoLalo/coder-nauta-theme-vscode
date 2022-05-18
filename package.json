@@ -20,11 +20,11 @@
     },
     "icon": "./icons/codernauta.png",
     "author": "Martín La Loggia",
-    "email": "nautacoder@gmail.com",
+    "email": "martinuriellaloggia@gmail.com",
     "repository": {
         "type": "git",
         "url": "https://github.com/TinchoLalo/coder-nauta-theme-vscode"
     },
-    "publisher": "codernautatheme"
+    "publisher": "CoderNautaTheme"
     
 }
