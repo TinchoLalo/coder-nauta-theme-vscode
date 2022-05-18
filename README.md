@@ -1,1 +1,5 @@
-# Official CoderNauta Theme inspired in Dracula, for Cascadia Code font.
+# CoderNauta Official Theme for Visual Studio Code
+
+![Dracula](https://draculatheme.com/static/img/dracula.gif)
+
+
