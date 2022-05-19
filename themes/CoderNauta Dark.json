@@ -1,5 +1,5 @@
 {
-	"name": "Coder Nauta",
+	"name": "CoderNauta Dark",
 	"colors": {
 		"sideBar.background": "#21232d",
 		"activityBar.activeBackground": "#bd93f910",
@@ -194,7 +194,7 @@
 		"titleBar.activeForeground": "#f8f8f2",
 		"titleBar.inactiveBackground": "#191a21",
 		"titleBar.inactiveForeground": "#6272a4",
-		"walkThrough.embeddedEditorBackground": "#21222c",
+		"walkThrough.embeddedEditorBackground": "#21222c"
 	},
 	"tokenColors": [
 		{
@@ -685,9 +685,7 @@
 				"punctuation.separator.annotation"
 			],
 			"settings": {
-				"foreground": "#FF79C6",
-				
-				
+				"foreground": "#FF79C6"
 			}
 		},
 		{
@@ -745,7 +743,7 @@
 				"keyword.operator.pointer",
 				"keyword.operator.symbols",
 				"keyword.operator.word",
-				"keyword.other.special-method",
+				"keyword.other.special-method"
 			],
 			"settings": {
 				"foreground": "#fb607f",
@@ -755,7 +753,7 @@
 		{
 			"scope":[
 				"constant.numeric",
-				"constant.float",
+				"constant.float"
 			],
 			"settings": {
 				"foreground": "#ab82ff",
@@ -799,7 +797,7 @@
 				"source.groovy storage.type.def"
 			],
 			"settings": {
-				"foreground": "#FF79C6",
+				"foreground": "#FF79C6"
 				
 			}
 		},
@@ -863,7 +861,7 @@
 				"punctuation.definition.group.capture.regexp"
 			],
 			"settings": {
-				"foreground": "#FF79C6",
+				"foreground": "#FF79C6"
 			
 			}
 		},
@@ -976,7 +974,7 @@
 				"meta.variable.assignment.destructured.object.coffee variable variable"
 			],
 			"settings": {
-				"foreground": "#F8F8F2",
+				"foreground": "#F8F8F2"
 				
 			}
 		},
@@ -1038,7 +1036,7 @@
 				"support.constant"
 			],
 			"settings": {
-				"foreground": "#BD93F9",
+				"foreground": "#BD93F9"
 	
 			}
 		},
