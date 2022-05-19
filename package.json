@@ -14,7 +14,7 @@
             {
                 "label": "Coder Nauta Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/CoderNauta Dark.json",
+                "path": "./themes/CoderNauta.json",
                 "description": "CoderNauta Dark Official theme for vscode"
             }
             
